@@ -115,6 +115,6 @@ int main()
 ```
 The dynamic programming solution above has a time complexity of O(mn).
 
-![Dynamic table](/path/to/img.jpg)
+![Dynamic table](https://github.com/matthewpdias/ACM_stuff/blob/master/Screen%20Shot%202016-10-26%20at%209.12.30%20PM.png)
 
 animation availiable [here](https://www.cs.usfca.edu/~galles/visualization/DPLCS.html)
