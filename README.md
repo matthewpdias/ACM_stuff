@@ -1,5 +1,4 @@
-# LCS
-## Longest common subsequence
+<h1>LCS</h1><h3>Longest common subsequence</h3>
 
 ## Introduction
 Given a series of strings, find the longest common subsequence among them all. A subsequence is a sequence that appears in the same order, but is not necessarily consequtive.
