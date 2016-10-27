@@ -115,6 +115,6 @@ int main()
 ```
 The dynamic programming solution above has a time complexity of O(mn).
 
-<img src="https://github.com/matthewpdias/ACM_stuff/blob/master/Screen%20Shot%202016-10-26%20at%209.12.30%20PM.png" alt="Dynamic Solution Table" style="width:400px;height:400px;">
+<img src="https://github.com/matthewpdias/ACM_stuff/blob/master/Screen%20Shot%202016-10-26%20at%209.12.30%20PM.png" alt="Dynamic Solution Table" style="width:300px;height:300px;">
 
 animation availiable [here](https://www.cs.usfca.edu/~galles/visualization/DPLCS.html)
