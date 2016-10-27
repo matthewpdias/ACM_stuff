@@ -58,7 +58,7 @@ This solution has the time complexity of O(2<sup>*n*</sup>)
 
 ## A different approach
 
-Dynamic programming can be applied tho this problem and a much better time complexity can be acchieved. A bottom-up approach is used to build the LCS.
+Dynamic programming can be applied to this problem and a much better time complexity can be acchieved. A bottom-up approach is used to build the LCS.
 
 ```c++
 /* Dynamic Programming C/C++ implementation of LCS problem */
