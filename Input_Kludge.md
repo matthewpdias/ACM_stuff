@@ -13,3 +13,21 @@ The easiest and most simple test for input kludge is "facerolling" or "mashing" 
 ## Solution
 
 A common solution for Input Kludge is field Validation. Often the provided input is parsed through a series of regular expressions and algorithms to determine if it contains bad input before it is accepted and saved by the program. If the input is bad, it is rejected.
+
+## For your consideration
+
+```c++
+#include <iostream>
+using namespace std;
+
+int main(){
+  int arr[11] = {0,1,2,3,4,5,6,7,8,9,10};
+  int in;
+  cout << "ENTER A NUMBER, 0-10: " << endl;
+  cin >> in;
+  cout << "You selected: " << arr[in] << endl;
+  cout << "Executed Succesfully" << endl;
+  return 0;
+}
+```
+What values will this program work for? What will hapen if we use bad input? Lets find out!
