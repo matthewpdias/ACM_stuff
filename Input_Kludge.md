@@ -1,10 +1,10 @@
 # Input Kludge
 
-`Input Kludge` is a probem in software design in which user input is not correctly handled. This term applies both to valid inputs being falsely rejected as well as bad input being accepted.
+`Input Kludge` is a probem in software design in which user input is not correctly handled. This term applies both to valid inputs being falsely rejected as well as bad input being accepted. This can result from a poor user interface.
 
 ## Problems
 
-Some of the largest breaches in enterprise security have been due to input kludge issues, when SQL was input into a user populated field and then executed on a server.
+Some of the largest breaches in enterprise security have been due to input kludge issues, when SQL was input into a user populated field and then executed on a server. Ad-hoc input validation routines may point to input kludge but it does not nessarily mean that there is a problem. 
 
 ## Testing
 
@@ -12,7 +12,7 @@ The easiest and most simple test for input kludge is "facerolling" or "mashing" 
 
 ## Solution
 
-A common solution for Input Kludge is field Validation. Often the provided input is parsed through a series of regular expressions and algorithms to determine if it contains bad input before it is accepted and saved by the program. If the input is bad, it is rejected.
+A common solution for Input Kludge is field Validation. Often the provided input is parsed through a series of regular expressions and algorithms to determine if it contains bad input before it is accepted and saved by the program. If the input is bad, it is rejected. 
 
 ## For your consideration
 
