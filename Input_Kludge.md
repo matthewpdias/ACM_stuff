@@ -31,3 +31,9 @@ int main(){
 }
 ```
 What values will this program work for? What will hapen if we use bad input? Lets find out!
+
+## Sources
+https://www.owasp.org/index.php/Fuzzing
+https://sourcemaking.com/antipatterns/input-kludge
+https://en.wikipedia.org/wiki/Input_kludge
+https://en.wikipedia.org/wiki/Fuzz_testing
