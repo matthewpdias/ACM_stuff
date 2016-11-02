@@ -35,6 +35,8 @@ int main(){
 ```
 What values will this program work for? What will hapen if we use bad input? Lets find out!
 
+![Alt text](http://media.gettyimages.com/videos/medium-shot-baboon-typing-on-laptop-and-pushing-it-away-video-id712-23?s=640x640)
+![Alt text](http://stream1.gifsoup.com/view3/1821925/facerolling-o.gif)
 ## Sources
 https://www.owasp.org/index.php/Fuzzing
 https://sourcemaking.com/antipatterns/input-kludge
